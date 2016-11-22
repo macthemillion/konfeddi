@@ -1,0 +1,15 @@
+{
+    "name": "Konfeddi",
+    "title": "Konfeddi",
+    "description": "Konfeddi",
+    "homepage": "",
+    "version": "1.0",
+    "author": "Maximilian Knauerhase (http://macthemillion.de)",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["konfeddi", "konfetti", "dark", "theme", "flat", "highlighting", "color mode"]
+}
